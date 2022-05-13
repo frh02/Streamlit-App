@@ -4,3 +4,4 @@ Pillow
 click
 numpy
 streamlit
+libgl1
