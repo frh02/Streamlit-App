@@ -4,4 +4,5 @@ opencv-python
 Pillow
 click
 streamlit
-
+libvpx
+ffmpeg
